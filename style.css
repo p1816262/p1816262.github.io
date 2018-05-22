@@ -1,0 +1,165 @@
+
+
+/* this is for..... */
+*{box-sizing: border-box;}
+.box{
+	width:100%;
+	font-size:20px;
+	height:auto;
+	
+	
+	background:#F4F4F3;
+	margin:0 auto;
+	
+	
+
+
+}
+
+.box header{
+	text-align:left;
+	width:1280px;
+	margin:0 auto;
+	padding:2px;
+	
+}	
+header img{
+	width:150px;
+	height:150px;
+	float:left;
+}
+body{
+	
+	margin:0;
+}
+
+
+
+
+
+
+.container{
+	width: 1280px;
+	min-height: 500px;
+	margin: 0 auto;
+	
+	display: table;
+}
+
+section{
+	width: 100%;
+	min-height: 50px;
+    clear: both;
+	display: table;
+}
+
+.column{
+	width:100%;
+	
+}
+img{
+	height:300px;
+	
+}
+img:hover{
+	cursor:pointer;
+}
+
+
+
+div.container header{
+	width:1280px;
+	text-align:center;
+	margin:0 auto;
+	color:#EEC3BA;
+	height:auto;
+	clear: both;
+	text-align:center;
+	font-size:100px;
+	margin:0 auto;
+	font-family: 
+}
+
+
+
+nav{
+	width: 100%;
+	clear: both;
+	padding: 30px;	
+	
+	height:auto;
+	background:white;
+	margin:0 auto;
+	text-align:center;
+	font-size:20px;
+	padding:20px;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+nav a{
+	width:33%;
+	display:inline-block;
+	color:black;
+	padding:10px;
+	text-decoration:none;
+}
+nav a:hover{
+	color:#EEC3BA;
+
+}
+.col3{width: 33.3333%;
+	 }
+section{
+	width: 100%;
+	min-height: 400px;
+    clear: both;
+	display: table;
+	padding:30px;
+	
+	
+}
+
+
+
+figure{
+	text-align:center;
+
+}
+
+
+
+
+.column{
+	float: left;
+    min-height: 50px;
+	margin-bottom: -4px; /* this is needed for inline-block bug */
+	
+
+}
+.rectangle{
+	background:#F4F4F3;
+	width: 100%;
+	clear: both;
+	padding: 5px;
+	height:200px;
+	position:relative;
+
+	
+
+}
+.rectangle footer{
+	width:1280px;
+	text-align:center;
+	margin:0 auto;
+	color:black;
+	
+	
+}
+ul{
+	list-style:none;
+	
+}
+i{
+	padding:5px;
+}
+
